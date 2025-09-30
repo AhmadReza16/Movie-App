@@ -1,12 +1,74 @@
-# React + Vite
+ 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Movie App** built with **React** where you can search for movies, view details such as title, poster, and release year, and save your favorite ones.  
+This project was created to practice React and API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search movies by title  
+- 🖼️ Display movie poster and release year  
+- ⭐ Add movies to a **Favorites** list  
+- 🗑️ Remove movies from Favorites  
+- ⚡ Fast and responsive design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)  
+- [CSS / Tailwind CSS] (depending on your styling choice)  
+- [Movie API] (for fetching movie data — e.g., OMDb API or similar)  
+
+---
+
+## 📦 Installation & Setup
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- A movie API key (if required, e.g., OMDb API)
+
+### Steps
+```bash
+# Clone the repository
+git clone https://github.com/AhmadReza16/Movie-App.git
+
+cd Movie-App
+
+# Install dependencies
+npm install
+
+# Create a .env file in the project root and add your API key
+REACT_APP_API_KEY=your_api_key_here
+
+# Run the development server
+npm start
+```
+📷 Screenshots
+
+Here’s a preview of the app:
+
+
+
+
+
+
+📌 Notes
+
+This project was mainly built for educational purposes and to practice working with React and APIs.
+Future improvements could include:
+
+🎭 Adding detailed movie info (cast, plot, rating)
+
+🎨 Implementing dark mode
+
+💾 Saving favorites in localStorage or a backend server
+
+📱 Improving responsive design for mobile devices
+
+👨‍💻 Author
+
+AhmadReza
+
+GitHub: @AhmadReza16

@@ -48,7 +48,6 @@ npm start
 📷 Screenshots
 
 Here’s a preview of the app:
-Home page:
 
 <img width="1349" height="3181" alt="Screenshot 2025-09-30 at 14-23-36 Movie List" src="https://github.com/user-attachments/assets/dda2d17c-6764-4ed4-8893-50556718519a" />
 

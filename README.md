@@ -49,8 +49,11 @@ npm start
 
 Here’s a preview of the app:
 
+<img width="1349" height="3181" alt="Screenshot 2025-09-30 at 14-23-36 Movie List" src="https://github.com/user-attachments/assets/dda2d17c-6764-4ed4-8893-50556718519a" />
 
+<img width="1349" height="3229" alt="Screenshot 2025-09-30 at 14-25-26 Movie List" src="https://github.com/user-attachments/assets/f1fccf7b-6248-48b2-a443-a41f33d82f11" />
 
+<img width="1349" height="2389" alt="Screenshot 2025-09-30 at 14-25-44 Movie List" src="https://github.com/user-attachments/assets/73161122-f180-4226-8eb3-49dc232969d9" />
 
 
 
